@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="PY" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,py,ts,vscode)](https://skillicons.dev)
 </div>
  
  <br>
