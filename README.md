@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaacamargo&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,py,ts,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,py,ts,angular,vscode)](https://skillicons.dev)
 
  
  
